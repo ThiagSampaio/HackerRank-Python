@@ -16,6 +16,8 @@ Constraints:
 1<= n <= 100
 
 """
+
+# Solution -> 06/01/2022 Thiago Sampaio.
 n = 4
 if n % 2 != 0:
     print('Weird')
