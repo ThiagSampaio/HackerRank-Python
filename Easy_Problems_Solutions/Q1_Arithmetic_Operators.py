@@ -18,7 +18,7 @@ Print the following:
 
 """
 
-#Solution -> 06/01/2022 Thiago Sampaio
+# Solution -> 06/01/2022 Thiago Sampaio
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
